@@ -56,5 +56,5 @@ Shows how shipping modes and customer segments affect sales and profitability, e
 Overall, the dashboard converts raw sales data into clear, actionable insights that support data‑driven decision making for the Super Store business.
 
 6. Screenshots / Demos
-   Show what the Deshboard look like .- 1[Alt text]()
+   Show what the Deshboard look like .- 1[Alt text](https://github.com/rhjain8/Power-BI-Project-Sales_Dashboard/blob/main/New%20Power%20BI%20Project%20-%20Sales%20Dashboard.pbit)
    Example : 1[Dashboard Preview](https://github.com/rhjain8/Power-BI-Project-Sales_Dashboard/blob/main/PowerBI_Dashboard_Screenshot.png)
